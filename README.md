@@ -1,0 +1,2 @@
+# Embedded-Systems-and-IoT-Applications-Using-Raspberry-Pi-and-Python
+This Repository consists of documents related to the tasks done in Internship on Embedded Systems and IoT Applications Using Raspberry Pi and Python. The programming language is Micropython coded on to a Raspberry Pi Pico W. This package includes my projects and its code which is executed on the hardware in real time as well as simulation.
